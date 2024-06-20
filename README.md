@@ -257,6 +257,17 @@ service firebase.storage {
 }
 
 
-
-
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20check.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20init.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/firebase%20cli%20login.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/install%20google%20cloud%20cli.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/google%20cloud%20cli%20login.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20init.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20apply%201.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20apply%202.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20apply%203.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20apply%204.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20apply%205.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/terraform%20apply%206.png)
 ![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/Authentication.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/storage%20rules.png)
