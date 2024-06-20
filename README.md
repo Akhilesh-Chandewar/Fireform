@@ -257,4 +257,4 @@ service firebase.storage {
 }
 
 ```
-![Alt text](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/Authentication.png)
+![Example Image](https://github.com/Akhilesh-Chandewar/Fireform/blob/main/images/Authentication.png)
