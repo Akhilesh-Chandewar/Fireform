@@ -1,5 +1,7 @@
 # Fireform
 
+Github link https://github.com/Akhilesh-Chandewar/Fireform
+Deployed link https://fireform109-013.web.app/
 
 
 ## Project Description
